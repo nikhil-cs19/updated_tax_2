@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "231535216452",
+    "project_id": "taxmanager-8c280",
+    "storage_bucket": "taxmanager-8c280.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:231535216452:android:5d5ee6c73e6e99a3d27911",
+        "android_client_info": {
+          "package_name": "com.example.tax_manager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "231535216452-gkvqj10gj2s9rmd06qnug3pd5h43evtv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tax_manager",
+            "certificate_hash": "bef4154d1562156c8819b22994a501ad7c47c394"
+          }
+        },
+        {
+          "client_id": "231535216452-d0d27j53od9sudl5v6tf8003crp89civ.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcxaivEdslNs3V7xoZu4Czg2ByV-MADOY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "231535216452-d0d27j53od9sudl5v6tf8003crp89civ.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
